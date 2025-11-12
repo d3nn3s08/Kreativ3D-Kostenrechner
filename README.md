@@ -93,4 +93,4 @@ Der Quellcode bleibt urheberrechtlich geschützt und darf nicht ohne Zustimmung 
 
 ## 🕒 Versionsverlauf
 Siehe [CHANGELOG.md](CHANGELOG.md) für alle bisherigen Änderungen.  
-Aktuell: **v1.1.7 – Auto Machine Values & Adminbereich**
+Aktuell: **v1.1.5_beta**
