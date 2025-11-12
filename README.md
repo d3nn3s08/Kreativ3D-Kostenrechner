@@ -27,7 +27,7 @@ Das Programm wurde von **Denis alias DarkSoul86** entwickelt und bietet eine kla
 
 ## 🧭 Anleitung
 1. **Starten:**  
-   Lade die aktuelle Version im [Releases-Bereich](../releases) herunter und starte die `Kreativ3D_v1.x.x_setup.exe`.
+   Lade die aktuelle Version herunter und starte die `Kreativ3D_v1.x.x_setup.exe`.
 
 2. **Daten einrichten:**  
    Unter ⚙️ **Settings / Datenbanken** kannst du deine Filamente, Maschinen, Kunden und Dienstleistungen anlegen oder bearbeiten.
