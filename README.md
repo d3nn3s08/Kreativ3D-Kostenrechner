@@ -58,7 +58,7 @@ Dort findest du die Dateien:
 
 ---
 
-## 📸 Screenshots (Platzhalter)
+## 📸 Screenshots 
 | Hauptfenster | Einstellungen | Ergebnis |
 |---------------|----------------|-----------|
 | ![Main UI](screenshots/main_ui.png) | ![Settings](screenshots/settings.png) | ![Result](screenshots/calc_result.png) |
