@@ -1,3 +1,5 @@
+![Kreativ3D Banner](screenshots/kreativ3d_banner.png)
+
 # 🖖 Kreativ3D – 3D-Drucker Kostenrechnung
 **Einfach. Übersichtlich. Ehrlich kalkuliert.**
 
