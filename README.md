@@ -90,6 +90,25 @@ Der Quellcode bleibt urheberrechtlich geschützt und darf nicht ohne Zustimmung 
 💬 Fragen, Ideen oder Feedback? → einfach ein Issue auf GitHub erstellen oder per Mail melden.
 
 ---
+---
+
+## 💡 Feedback & Feature-Wünsche
+
+Ich freue mich über Vorschläge, Ideen und Verbesserungen!
+
+Wenn du einen Wunsch oder Bug hast:
+1. Öffne ein **[Issue](../../issues/new/choose)** hier auf GitHub  
+   *(einfach oben auf „Issues“ klicken und dann „New Issue“).*
+2. Wähle, ob es sich um:
+   - 🧩 **Feature-Wunsch**
+   - 🐞 **Fehler / Bug**
+   - 💬 **Allgemeines Feedback**
+     handelt.
+3. Beschreibe kurz, was du dir wünschst oder was verbessert werden kann.
+
+Alle Vorschläge werden gesammelt und – wenn sinnvoll – in die **Roadmap** aufgenommen.  
+Danke für dein Feedback 🙌
+
 
 ## 🕒 Versionsverlauf
 Siehe [CHANGELOG.md](CHANGELOG.md) für alle bisherigen Änderungen.  
