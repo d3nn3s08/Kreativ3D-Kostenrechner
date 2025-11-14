@@ -23,6 +23,22 @@ Das Programm wurde von **Denis alias DarkSoul86** entwickelt und bietet eine kla
 - Import/Export kompletter Datensätze als JSON-Backup
 - Einfache, übersichtliche Benutzeroberfläche – alles in einer Anwendung
 
+- 🔒 Digitale Signatur
+
+Die ausführbare Datei von Kreativ3D ist jetzt offiziell digital signiert.
+Das bedeutet:
+
+Windows SmartScreen blockiert die Datei nicht mehr
+
+Browser wie Chrome oder Edge melden keinen „unsicheren Download“
+
+Antivirenprogramme stufen die EXE nicht mehr als potenziell gefährlich ein
+
+Nutzer können das Programm ohne Warnungen installieren und starten
+
+Eine digitale Signatur bestätigt, dass die Datei unverändert vom Entwickler stammt und nicht von Dritten manipuliert wurde.
+Damit ist Kreativ3D jetzt deutlich vertrauenswürdiger und professioneller im Einsatz.
+
 ---
 
 ## 🧭 Anleitung
@@ -89,7 +105,6 @@ Der Quellcode bleibt urheberrechtlich geschützt und darf nicht ohne Zustimmung 
 📧 **E-Mail:** darksoull86@googlemail.com  
 💬 Fragen, Ideen oder Feedback? → einfach ein Issue auf GitHub erstellen oder per Mail melden.
 
----
 ---
 
 ## 💡 Feedback & Feature-Wünsche
