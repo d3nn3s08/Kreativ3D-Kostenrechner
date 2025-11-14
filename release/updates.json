@@ -1,1 +1,5 @@
-"latest": "v1.1.9"
+{
+  "latest": "v1.1.9",
+  "url": "https://github.com/d3nn3s08/Kreativ3D-Kostenrechner/raw/main/release/Kreativ3D_v1.1.5_setup.exe",
+  "changelog": "- Testupdate erfolgreich\n- Popup sollte jetzt angezeigt werden\n- Update-System funktioniert"
+}
