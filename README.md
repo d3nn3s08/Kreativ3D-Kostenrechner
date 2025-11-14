@@ -78,6 +78,7 @@ Dort findest du die Dateien:
 | Hauptfenster | Einstellungen | Ergebnis |
 |---------------|----------------|-----------|
 | ![Main UI](screenshots/main_ui.png) | ![Settings](screenshots/settings.png) | ![Result](screenshots/calc_result.png) |
+| ![Result](screenshots/Digitale_signatur.png)
 
 *(Screenshots werden noch ergänzt.)*
 
