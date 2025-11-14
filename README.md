@@ -145,4 +145,4 @@ Danke für dein Feedback 🙌
 
 ## 🕒 Versionsverlauf
 Siehe [CHANGELOG.md](CHANGELOG.md) für alle bisherigen Änderungen.  
-Aktuell: **v1.1.5_beta**
+Aktuell: **v1.2.0**
