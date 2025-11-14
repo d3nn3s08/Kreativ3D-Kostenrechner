@@ -1,5 +1,22 @@
 ![Kreativ3D Banner](screenshots/kreativ3d_banner.png)
 
+<div align="center">
+
+# 🖖 Kreativ3D – Signierte Software
+
+Die aktuelle Version ist **digital signiert**.  
+Trotzdem kann Windows oder der Browser in den ersten Tagen noch warnen –  
+das ist normal, weil eine neue Signatur erst **Reputation (Vertrauen)** aufbauen muss.
+
+👉 **Einfach herunterladen, öffnen und bestätigen.**  
+👉 **Falls der Browser die EXE blockiert:** Die ZIP-Version entpacken.
+
+Die Software ist sauber.  
+Wer den Quellcode einsehen möchte, bekommt ihn von mir **auf Anfrage**.
+
+</div>
+
+
 # 🖖 Kreativ3D – 3D-Drucker Kostenrechnung
 **Einfach. Übersichtlich. Ehrlich kalkuliert.**
 
